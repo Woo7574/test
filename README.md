@@ -46,7 +46,7 @@ Apex 레전드는 정보의 파편화와 높은 진입 장벽으로 인해 신�
 | **IDE** | `Android Studio` |
 | **Language** | `Kotlin`, `Java` |
 | **Architecture** | `MVVM (Model-View-ViewModel)` |
-| **UI** | `XML`, `View Binding` |
+| **UI** | `Jetpack Compose` |
 | **Libraries** | • `RecyclerView` (목록 표시)\<br\>• `Retrofit2` (API 통신)\<br\>• `Glide` / `Coil` (이미지 로딩) |
 
 -----
